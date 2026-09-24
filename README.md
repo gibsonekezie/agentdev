@@ -8,5 +8,5 @@ This is like that scene in the matrix, you can take the fucking red pill  and sp
 
 The point is you can build an agent with just a simple prompt using a tool like Microsoft Foundry or you can learn how to build an agent the hardway. I recommend the hardway if your goal is to become an expert in agent development.
 
-Using this resource, the strategy is to have multiple hands-on deep dives in critical areas of agent development and buid a specialist skills in tools like langchain, langsmith, microsoft foundry sdk and google adk. We will also delve into the roles tools like herdr, travily and parrallel play in AI agent development.
+Using this resource, the strategy is to have multiple hands-on deep dives in critical areas of agent development and buid specialist skills in tools like langchain, langsmith, microsoft foundry sdk and google adk. We will also delve into the roles tools like herdr, travily and parrallel play in AI agent development.
 ~                                                                    
